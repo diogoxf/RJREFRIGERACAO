@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <font id="dyn__locaweb-icons" horiz-adv-x="500">
+    <font-face font-family="dyn__locaweb-icons"
+      units-per-em="500" ascent="500"
+      descent="0" />
+    <missing-glyph horiz-adv-x="0" />
+    <glyph glyph-name="next"
+      unicode="&#xEA01;"
+      horiz-adv-x="500" d=" M142.4 0.3C145.8 0.3 149.2 1.7 151.6 4.4L366.9 243C371.2 247.8 371.2 255 366.9 259.7L151.5 495.6C146.9 500.7 139 501 133.9 496.4C128.8 491.8 128.5 483.9 133.1 478.8L340.8 251.2L133.1 21.1C128.5 16 128.9 8.1 134 3.5C136.4 1.4 139.4 0.3 142.4 0.3z" />
+  </font>
+</defs>
+</svg>
